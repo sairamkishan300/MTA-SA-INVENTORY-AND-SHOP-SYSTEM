@@ -3,9 +3,11 @@
 ---
 
 **Join our Discord server to Buy this script** - https://discord.gg/C6yGdAEWEa 
+
 **Buy From Gumroad** - https://saimusick.gumroad.com/l/unyvze
 
 **For Notifications used in this script** - https://community.multitheftauto.com/index.php?p=resources&s=details&id=19039
+
 Advanced inventory + shop system for MTA:SA roleplay servers, including:
 
 - **Standalone inventory** with item weights, persistent storage and GUI.
