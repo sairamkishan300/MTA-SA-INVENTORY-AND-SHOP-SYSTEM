@@ -1,7 +1,7 @@
 # MTA:SA Inventory, Shops & House Storage
 
-Join our Discord server to Buy this script - https://discord.gg/C6yGdAEWEa
-Buy From Gumroad - https://saimusick.gumroad.com/l/unyvze
+-#**Join our Discord server to Buy this script** - https://discord.gg/C6yGdAEWEa
+-#**Buy From Gumroad** - https://saimusick.gumroad.com/l/unyvze
 
 Advanced inventory + shop system for MTA:SA roleplay servers, including:
 
