@@ -1,5 +1,8 @@
 # MTA:SA Inventory, Shops & House Storage
 
+Join our Discord server to Buy this script - https://discord.gg/C6yGdAEWEa
+Buy From Gumroad - https://saimusick.gumroad.com/l/unyvze
+
 Advanced inventory + shop system for MTA:SA roleplay servers, including:
 
 - **Standalone inventory** with item weights, persistent storage and GUI.
@@ -225,4 +228,5 @@ Persistent, configurable storages that act as alternate inventories (e.g. house 
    - Staff tools: `/invsee [accountName]`, `/hstorage`, `/delhstorage`.
 6. Adjust texts, icons, and positions to match your server style.
 
-This README is intentionally short and focused so you can use it directly on your GitHub page.
+Join our Discord server to Buy this script - https://discord.gg/C6yGdAEWEa
+Buy From Gumroad - https://saimusick.gumroad.com/l/unyvze
