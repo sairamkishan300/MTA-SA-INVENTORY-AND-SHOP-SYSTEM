@@ -6,6 +6,7 @@ Advanced inventory + shop system for MTA:SA roleplay servers, including:
 - **Item-based shops** with owners, refill system, logs and Discord webhook.
 - **View other player inventory** via `/invsee` (ACL-controlled).
 - **House storage system** with persistent storages and capacity limits.
+- **Uploaded the config file** For your reference.
   
 <img width="1000" height="1000" alt="STORE" src="https://github.com/user-attachments/assets/9c234d64-5242-4ed4-a2a2-721bf2582db7" />
 <img width="1920" height="1080" alt="trunk" src="https://github.com/user-attachments/assets/0abc9070-2b8c-4530-919a-a8012f761e2f" />
