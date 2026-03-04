@@ -2,9 +2,9 @@
 
 ---
 
-**Join our Discord server to Buy this script** - https://discord.gg/C6yGdAEWEa 
+**Join our Discord server FOR MORE** - https://discord.gg/C6yGdAEWEa 
 
-**Buy From Gumroad** - https://saimusick.gumroad.com/l/unyvze
+**DOWNLOAD FOR FREE From Gumroad** - https://saimusick.gumroad.com/l/unyvze
 
 **Download Notification system Resource used in this script** - https://community.multitheftauto.com/index.php?p=resources&s=details&id=19039
 
